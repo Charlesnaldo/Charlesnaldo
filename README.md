@@ -6,11 +6,10 @@ Minha vida é a prova de como paixões diversas podem se combinar de maneira ún
 
 - 👀 Estou interessado em IA e resolução de problemas
 
-- 
 - 🌱 Atualmente estou aprendendo C++, Python, Cyber segurança, Html, Css, Java Script, Wordepress, mysql entre outros
--  
+
 - 💞️ I’m looking to collaborate on ...em projetos de segurança e desenvolvimento em IA
-- 
+
 - 📫 How to reach me ...www.smartr2.com.br tem todo meu portifolio
 
 <!---
