@@ -11,9 +11,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesnaldo&show_icons=true&theme=radical)
 
  
-  <br>
-  <br>
-
 - 🔭 I’m currently working on **Projetos Pessoais**
 
 - 🌱 I’m currently learning **JavaScrip and React Native**
