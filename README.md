@@ -72,4 +72,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ### Últimos videos:
 - [Conheçendo Infinity school Fortaleza: Horários, Valores e Didática](https://www.youtube.com/watch?v=tUzhZEALagY&t=62s)<br/>
+- [Subindo uma pagina no Git em 5 minuto](https://www.youtube.com/watch?v=Y5vMaCp4KbM)<br/>
 
